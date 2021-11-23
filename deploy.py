@@ -39,8 +39,9 @@ abi = json.loads(
     compiled_sol["contracts"]["SimpleStorage.sol"]["SimpleStorage"]["metadata"]
 )["output"]["abi"]
 
+# w3 = Web3(Web3.HTTPProvider("https://kovan.infura.io/v3/")) # Kovan Testnet ENDPOINT
 w3 = Web3(Web3.HTTPProvider("http://10.28.1.12:7545"))
-chain_id = 1337
+chain_id = 42
 my_address = "0xe2d1b8B31F7182a297ebAE637353876fcdB8C599"
 private_key = os.getenv("PRIVATE_KEY")
 
