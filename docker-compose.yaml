@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+    truffle_suite:
+        container_name: truffle_suite
+        build:
+            context: ./docker/truffle-suite
+        volumes:
+            - .:/workspace
