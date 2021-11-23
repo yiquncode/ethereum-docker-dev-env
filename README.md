@@ -4,7 +4,7 @@ Whenever I'am learning something new, doing all the initial setup work like this
 
 ## Work With Remote Development
 
-After build the image I usually start development in VScode, you can learn more details here: https://www.youtube.com/watch?v=mi8kpAgHYFo
+After build a image I usually start development in VScode, you can learn more details here: https://www.youtube.com/watch?v=mi8kpAgHYFo
 
 ## Others
 
@@ -15,3 +15,7 @@ Bracket Pair Colorizer
 https://npm.io/package/ganache-cli
 
 https://devopscube.com/keep-docker-container-running
+
+https://chainlist.org
+
+https://infura.io
