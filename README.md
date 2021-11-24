@@ -6,6 +6,15 @@ Whenever I'am learning something new, doing all the initial setup work like this
 
 After build a image I usually start development in VScode, you can learn more details here: https://www.youtube.com/watch?v=mi8kpAgHYFo
 
+## Brownie
+
+```
+brownie test
+brownie test -s
+brownie test -k test_updating_storage
+brownie test --pdb
+```
+
 ## Others
 
 https://vscode.one/terminal-font-size
