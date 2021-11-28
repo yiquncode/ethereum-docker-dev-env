@@ -19,6 +19,8 @@ brownie test --pdb
 
 https://vscode.one/terminal-font-size
 
+https://code.visualstudio.com/remote/advancedcontainers/add-local-file-mount
+
 Bracket Pair Colorizer
 
 https://npm.io/package/ganache-cli
